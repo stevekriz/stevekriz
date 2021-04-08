@@ -1,7 +1,6 @@
 ### Hi there! I'm Steve Kriz 👋
 
 [![LinkedIn](https://img.shields.io/badge/stevekriz%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/stevekriz/)](https://www.linkedin.com/in/stevekriz/)
-[![GitHub](https://img.shields.io/badge/stevekriz%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/stevekriz)](https://github.com/stevekriz)
 [![Gmail](https://img.shields.io/badge/stevekriz%20-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&link=mailto:steve.kriz@gmail.com)](mailto:steve.kriz@gmail.com)
 
 - :round_pushpin: Based in San Franciso Bay Area, CA
