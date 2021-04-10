@@ -3,8 +3,8 @@
 [![LinkedIn](https://img.shields.io/badge/stevekriz%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/stevekriz/)](https://www.linkedin.com/in/stevekriz/)
 [![Gmail](https://img.shields.io/badge/stevekriz%20-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&link=mailto:steve.kriz@gmail.com)](mailto:steve.kriz@gmail.com)
 
-:pushpin: &nbsp; https://stevekriz.com
-:round_pushpin: &nbsp; Based in San Franciso Bay Area, CA
+- :pushpin: &nbsp; https://stevekriz.com
+- :round_pushpin: &nbsp; Based in San Franciso Bay Area, CA
 
 ### Languages & Tools
 
