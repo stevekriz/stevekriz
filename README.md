@@ -1,22 +1,18 @@
-### Hi there! I'm Steve Kriz 👋
+# Hi, I'm Steve 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stevekriz/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:steve.kriz@gmail.com)
+Senior Software Engineer at **Quant Five**, a five-person product studio in San Francisco. I build consumer and B2B products 0→1 — web, mobile, and AI. Nearly all of my work lives in private repos (that's what the green squares below are), so here's the short tour:
 
-- :pushpin: &nbsp; https://stevekriz.com
-- :round_pushpin: &nbsp; Based in San Franciso Bay Area, CA
+## What I've shipped
 
-### Languages & Tools
+- **[Noble Mobile](https://noblemobile.com)** — eSIM wireless carrier, 2024–present. Lead frontend on the consumer web app: a Next.js 15 app spanning auth, checkout, and real-money payments (Braintree + Plaid), bridged into the iOS/Android Expo app ([4.7★ on the App Store](https://apps.apple.com/us/app/noble-mobile/id6747272909)).
+- **[CodePress](https://codepress.dev)** — AI agentic-coding platform, 2025–present. Cross-platform chat UI shared by the web app and browser extension, Slack + GitHub-review integrations, an Automations dashboard, and the Expo mobile app.
+- **[AutoCPT](https://apps.apple.com/us/app/autocpt/id6466105577)** — AI video subtitling in React Native, 2023–2025. Built from scratch: FFmpeg extraction → serverless WhisperX GPU transcription (20+ languages) → styled subtitle generation → HEVC export.
+- **Client work via Q5** — TypeScript build-performance overhaul at **Replo** (YC-backed Shopify page builder); customer threat-intel portal at **LookingGlass Cyber**.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+## Toolbox
 
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![Amazon Web Services](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+TypeScript · React / Next.js · React Native / Expo · Python / Django · Node · PostgreSQL · Redis · AWS · Playwright · LLM APIs (Anthropic, OpenAI)
+
+## Get in touch
+
+[LinkedIn](https://www.linkedin.com/in/stevekriz) · [steve.kriz@gmail.com](mailto:steve.kriz@gmail.com)
