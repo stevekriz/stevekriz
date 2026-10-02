@@ -14,7 +14,7 @@ Senior Software Engineer at **Quant Five**, a five-person product studio in San 
 
 ## How I work
 
-I write the spec and the test plan, direct Claude Code and Codex, keep PRs small, and own the review: end-to-end and unit tests, CI, and before/after screenshots on UI changes.
+I write the spec and the test plan, direct Claude Code and Codex, keep PRs small, and own verification: end-to-end and unit tests, CI and AI review, and before/after screenshots on UI changes.
 
 ## Toolbox
 
