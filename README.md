@@ -2,7 +2,7 @@
 
 I'm a frontend-first product engineer with 5+ years shipping web and mobile apps on Django backends, working AI-first with Claude Code. From 2021 to 2026 I was a Senior Software Engineer at **Quant Five**, a five-person product studio in San Francisco, where I was the founding web engineer of client Noble Mobile's app (11,000+ phone lines activated) and most recently built AI agent-chat and live-preview UIs for CodePress. Almost all of that work lives in private repos (the contribution graph counts it), so here's the short tour.
 
-**Open to senior product and frontend engineering roles, remote-first.** [LinkedIn](https://www.linkedin.com/in/stevekriz) · steve.kriz@gmail.com
+**Open to senior product and frontend engineering roles on AI products, remote-first, and to contract work.** [LinkedIn](https://www.linkedin.com/in/stevekriz) · steve.kriz@gmail.com
 
 ## Selected work
 
